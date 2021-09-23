@@ -9,7 +9,7 @@ Application compute top 10 bitcoin transactions based on `price` field (descendi
 `./init-topic.sh`
 
 # Build
-`mvn package`
+`./mvnw package`
 
 # Run
 
